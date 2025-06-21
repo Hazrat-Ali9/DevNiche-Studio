@@ -1,4 +1,9 @@
-# DevNiche Studio
+# 🛼 Hazrat Ali
+
+# 🚎 Programmer || Software Engineering
+
+
+# 🚃 DevNiche Studio
 
 Welcome to **DevNiche Studio** – a cutting-edge MERN stack web application designed for seamless user management and authentication. This repository contains the frontend code for the project.
 

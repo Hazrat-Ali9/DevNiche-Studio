@@ -3,7 +3,7 @@ import { toast } from "react-toastify";
 import { useAuth } from "../store/auth";
 import Modal from 'react-modal';
 import { BallTriangle } from "react-loader-spinner";
-
+// admin contact
 const customStyles = {
   content: {
     width: '50vw',

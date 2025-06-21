@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import design_image from "../assets/images/design.png";
 import home_image from "../assets/images/home.png";
 import { Analytics } from "../components/Analytics";
-
+// Home js
 export default function Home ({ company_name }) {
 
   return (

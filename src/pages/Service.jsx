@@ -1,6 +1,7 @@
 import { useAuth } from "../store/auth";
 import serviceDesign from "../assets/images/design.png";
 import { BallTriangle } from "react-loader-spinner";
+// Service
 export default function Service() {
   const { services, isLoading } = useAuth();
   if(isLoading){

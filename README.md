@@ -51,7 +51,8 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/iMamoonAkhter/DevNicheStudio_Frontend.git
+    git clone https://github.com/Hazrat-Ali9/DevNiche-Studio
+    
     ```
 
 2. **Navigate to the project directory:**

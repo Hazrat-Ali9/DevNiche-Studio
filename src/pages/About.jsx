@@ -2,7 +2,7 @@ import { useState } from "react";
 import about_image from "../assets/images/about.png";
 import { Analytics } from "../components/Analytics";
 import { useAuth } from "../store/auth";
-
+// about js
 // eslint-disable-next-line react/prop-types
 const About = ({ company_name }) => {
   const {user} = useAuth();

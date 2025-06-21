@@ -46,3 +46,40 @@ Ensure you have the following installed:
 - [npm](https://www.npmjs.com/) (v6 or later)
 
 ### Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Hazrat-Ali9/DevNiche-Studio
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd DevNiche-Studio
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+4. **Run the application:**
+
+    ```bash
+    npm run dev
+    ```
+
+
+## 📸 Screenshot
+
+Here's a glimpse of what DevNiche Studio looks like:
+
+![Screenshot](demo.png)
+
+## 📝 Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
+
+## 📧 Contact

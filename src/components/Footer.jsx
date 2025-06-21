@@ -11,5 +11,5 @@ const Footer = ({ company_name }) => {
     </footer>
   );
 };
-
+// Footer js
 export default Footer;

@@ -52,13 +52,13 @@ Ensure you have the following installed:
 
     ```bash
     git clone https://github.com/Hazrat-Ali9/DevNiche-Studio
-    
+
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd DevNicheStudio_Frontend
+    cd DevNiche-Studio
     ```
 
 3. **Install dependencies:**

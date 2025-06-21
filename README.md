@@ -83,3 +83,6 @@ Here's a glimpse of what DevNiche Studio looks like:
 Contributions are welcome! If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
 
 ## 📧 Contact
+
+
+[MIT License](LICENSE)

@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { useAuth } from "../store/auth";
 import { toast } from "react-toastify";
 export default function Register() {
-
+// Register
   const [user, setUser] = useState({
     username: "",
     email: "",

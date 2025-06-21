@@ -4,7 +4,7 @@ import { Navigate, NavLink, Outlet } from "react-router-dom";
 import {useAuth} from "../../store/auth";
 export const AdminLayout = () => {
   const { user, isLoading } = useAuth();
-
+// admin layout
   if (isLoading) {
       return <h1>Loading ...</h1>;
   }

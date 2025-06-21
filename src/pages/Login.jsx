@@ -3,7 +3,7 @@ import loginimage from "../assets/images/login.png";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../store/auth";
 import { toast } from "react-toastify";
-
+// Login 
 export default function Login() {
     const { API, isAdmin, userAuthentication, storeTokenInLS } = useAuth();
     const URL = `${API}/api/auth/login`;

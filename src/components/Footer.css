@@ -1,0 +1,33 @@
+
+
+
+/* Footer styles */
+.footer {
+  background-color: var(--btn-color);
+  margin: 0;
+  user-select: none;
+  width: 100%; /* Ensures the footer spans the full width */
+  text-align: center;
+  position: relative;
+  
+}
+
+.footer .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem; /* Adjust padding as needed */
+}
+
+.footer .footer-bottom {
+  font-size: 1.6rem;
+  letter-spacing: 0.1rem;
+  word-spacing: 0.06rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer .footer-bottom {
+    font-size: 1.4rem;
+  }
+}

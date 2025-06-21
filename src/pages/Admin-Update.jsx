@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom"
 import { useAuth } from "../store/auth";
 import { toast } from "react-toastify";
 import { useEffect, useState } from "react";
-
+// admin update
 export const AdminUpdate = () => {
     const params = useParams();
     const [data, setData] = useState({

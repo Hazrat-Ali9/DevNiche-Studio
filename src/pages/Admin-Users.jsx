@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useAuth } from "../store/auth";
 import { toast } from "react-toastify";
 import { Link } from "react-router-dom";
+// Admin User
 export const AdminUsers = () => {
   const [users, setUsers] = useState([]);
   const { authorizationToken, API } = useAuth();

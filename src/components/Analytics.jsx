@@ -1,4 +1,4 @@
-
+// Analytics jsx
 export const Analytics = ()=> {
   return (
     <>

@@ -3,7 +3,7 @@ import { NavLink, useLocation } from "react-router-dom";
 import "./Navbar.css";
 import { useAuth } from "../store/auth";
 import { AdminLayout } from "./layouts/Admin-Layout";
-
+// Navbar js
 // eslint-disable-next-line react/prop-types
 export const Navbar = ({ company_name }) => {
     const { isLoggedIn, admin } = useAuth();

@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom"
 
-
+// page not found
 export const PageNotFound = () => {
   return (
     <>
